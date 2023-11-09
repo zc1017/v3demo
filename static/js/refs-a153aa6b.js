@@ -1,1 +1,0 @@
-import{bX as t,bc as n}from"./index-cdc499c6.js";function o(){if(!arguments.length)return[];var r=arguments[0];return t(r)?r:[r]}const u=(...r)=>s=>{r.forEach(a=>{n(a)?a(s):a.value=s})};export{u as a,o as c};
